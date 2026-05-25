@@ -1,11 +1,11 @@
 {
     "appName":  "EQ_SimulatorV1",
-    "version":  "26.05.25 20:32",
-    "build":  "b93f365",
-    "informationalVersion":  "0.8.1+26.05.25 20:32",
-    "publishedAt":  "2026-05-25T20:33:23+09:00",
+    "version":  "26.05.25 20:41",
+    "build":  "b8242a3",
+    "informationalVersion":  "0.8.1+26.05.25 20:41",
+    "publishedAt":  "2026-05-25T20:42:17+09:00",
     "downloadPageUrl":  "https://github.com/izeguman/EQ-Simulator-Release",
-    "downloadUrl":  "https://github.com/izeguman/EQ-Simulator-Release/raw/main/releases/EQ_SimulatorV1_V26.05.25_2032_b93f365.zip",
-    "fileName":  "EQ_SimulatorV1_V26.05.25_2032_b93f365.zip",
+    "downloadUrl":  "https://github.com/izeguman/EQ-Simulator-Release/raw/main/releases/EQ_SimulatorV1_V26.05.25_2041_b8242a3.zip",
+    "fileName":  "EQ_SimulatorV1_V26.05.25_2041_b8242a3.zip",
     "notes":  "Manual release"
 }
