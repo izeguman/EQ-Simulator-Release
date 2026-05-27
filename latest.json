@@ -1,11 +1,11 @@
 {
     "appName":  "EQ_SimulatorV1",
-    "version":  "26.05.27 22:55",
-    "build":  "d8ac4cb",
-    "informationalVersion":  "0.8.1+26.05.27 22:55",
-    "publishedAt":  "2026-05-27T22:57:55+09:00",
+    "version":  "26.05.27 23:54",
+    "build":  "bfd80ed",
+    "informationalVersion":  "0.8.1+26.05.27 23:54",
+    "publishedAt":  "2026-05-27T23:54:37+09:00",
     "downloadPageUrl":  "https://github.com/izeguman/EQ-Simulator-Release",
-    "downloadUrl":  "https://github.com/izeguman/EQ-Simulator-Release/raw/main/releases/EQ_SimulatorV1_V26.05.27_2255_d8ac4cb.zip",
-    "fileName":  "EQ_SimulatorV1_V26.05.27_2255_d8ac4cb.zip",
-    "notes":  "이번 버전 변경 사항\n\n- 개체 트리에 정렬 기능을 추가했습니다.\n- 정렬 기준 선택 상태를 저장하고, 정렬 후 열린 폴더 상태를 유지하도록 개선했습니다.\n- 개체 트리에서 그룹명을 변경할 수 있도록 추가했습니다."
+    "downloadUrl":  "https://github.com/izeguman/EQ-Simulator-Release/raw/main/releases/EQ_SimulatorV1_V26.05.27_2354_bfd80ed.zip",
+    "fileName":  "EQ_SimulatorV1_V26.05.27_2354_bfd80ed.zip",
+    "notes":  "이번 버전 변경 사항\n\n- 개체 트리에 정렬 기능을 추가했습니다.\n- 정렬 기준 선택 상태를 저장하고, 정렬 후 열린 폴더 상태를 유지하도록 개선했습니다.\n- 개체 트리에서 그룹명을 변경할 수 있도록 추가했습니다.\n- 한국어 도움말 수정"
 }
