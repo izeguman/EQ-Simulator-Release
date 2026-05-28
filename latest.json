@@ -1,11 +1,11 @@
 {
     "appName":  "EQ_SimulatorV1",
-    "version":  "26.05.27 23:54",
+    "version":  "26.05.28 10:22",
     "build":  "bfd80ed",
-    "informationalVersion":  "0.8.1+26.05.27 23:54",
-    "publishedAt":  "2026-05-27T23:54:37+09:00",
+    "informationalVersion":  "0.8.1+26.05.28 10:22",
+    "publishedAt":  "2026-05-28T10:28:05+09:00",
     "downloadPageUrl":  "https://github.com/izeguman/EQ-Simulator-Release",
-    "downloadUrl":  "https://github.com/izeguman/EQ-Simulator-Release/raw/main/releases/EQ_SimulatorV1_V26.05.27_2354_bfd80ed.zip",
-    "fileName":  "EQ_SimulatorV1_V26.05.27_2354_bfd80ed.zip",
-    "notes":  "이번 버전 변경 사항\n\n- 개체 트리에 정렬 기능을 추가했습니다.\n- 정렬 기준 선택 상태를 저장하고, 정렬 후 열린 폴더 상태를 유지하도록 개선했습니다.\n- 개체 트리에서 그룹명을 변경할 수 있도록 추가했습니다.\n- 한국어 도움말 수정"
+    "downloadUrl":  "https://github.com/izeguman/EQ-Simulator-Release/raw/main/releases/EQ_SimulatorV1_V26.05.28_1022_bfd80ed.zip",
+    "fileName":  "EQ_SimulatorV1_V26.05.28_1022_bfd80ed.zip",
+    "notes":  "- 여러 개체 선택 후, 일괄 변경 기능 및 단일 개체 수정 두 가지 선택 추가\n- 램프, 스위치, 수치입력, 수치표시가 부모로 컨베이어 선택 가능하게\n- 도구-정보 화면에서 프로그램 업데이트 체크 기능 추가"
 }
